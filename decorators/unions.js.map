@@ -1,0 +1,1 @@
+{"version":3,"file":"unions.js","sourceRoot":"","sources":["../../../src/decorators/unions.ts"],"names":[],"mappings":";;;AACA,uEAAoE;AAcpE,SAAgB,eAAe,CAAC,EAC9B,IAAI,EACJ,WAAW,EACX,KAAK,EACL,WAAW,GACkB;IAC7B,MAAM,mBAAmB,GAAG,IAAA,uCAAkB,GAAE,CAAC,oBAAoB,CAAC;QACpE,IAAI;QACJ,WAAW;QACX,aAAa,EAAE,KAAK;QACpB,WAAW;KACZ,CAAC,CAAC;IACH,OAAO,mBAAmB,CAAC;AAC7B,CAAC;AAbD,0CAaC"}
